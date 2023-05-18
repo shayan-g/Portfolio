@@ -10,9 +10,9 @@ ADD INFORMATION
 In my portfolio, you will see what analytics skills that I am capable of as well as the projects that I have selected.  My interests lie in...=
 
 Please contact me if you have any questions!
-* *sgolshan2018@gmail.com*
+* *[Personal Email]sgolshan2018@gmail.com*
 * *[LinkedIn Profile](https://www.linkedin.com/in/shayan-golshan/)*
-# *[Resume](https://github.com/shy00n123/Portfolio/blob/main/Shayan%20Golshan%20Resume.pdf)*
+* *[Resume](https://github.com/shy00n123/Portfolio/blob/main/Shayan%20Golshan%20Resume.pdf)*
 
 # Data Analytics Projects:
 
