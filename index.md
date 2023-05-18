@@ -11,7 +11,7 @@ In my portfolio, you will see what analytics skills that I am capable of as well
 
 Please contact me if you have any questions!
 * *sgolshan2018@gmail.com*
-* *[Linked In](https://www.linkedin.com/in/shayan-golshan/)*
+* *[LinkedIn Profile](https://www.linkedin.com/in/shayan-golshan/)*
 # *[Resume](https://github.com/shy00n123/Portfolio/blob/main/Shayan%20Golshan%20Resume.pdf)*
 
 # Data Analytics Projects:
