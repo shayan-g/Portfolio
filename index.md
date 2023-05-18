@@ -1,5 +1,4 @@
-# Shayan Golshan - Data Analytics Projects Overview through Career
-
+# Shayan Golshan's Data Analytics Projects Overview
 ## About Me
 ![Shayan Picture](https://github.com/shy00n123/Portfolio/blob/main/Profile.jpg?raw=true) 
 
