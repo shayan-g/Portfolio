@@ -1,4 +1,4 @@
-# Shayan Golshan's Data Analytics Projects Overview
+# Data Analytics Projects Overview
 ## About Me
 ![Shayan Picture](https://github.com/shy00n123/Portfolio/blob/main/Profile.jpg?raw=true) 
 
