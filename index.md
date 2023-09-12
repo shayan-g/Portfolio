@@ -4,7 +4,7 @@
 
 Hello, I am Shayan Golshan.  
 
-ADD INFORMATION
+I have completed my master's degree in Data Analytics and am happy to have the opportunity to contribute to your company.  I have a strong passion for analytics and am always looking to learn more.  I have experience in data analytics, machine learning, and data visualization.  I am also proficient in Python, SQL, R, Tableau, and Excel.
 
 In my portfolio, you will see what analytics skills that I am capable of as well as some of the projects that I have completed during my experience in my Master's program as well as the Work-Study programs.  My interests lie...
 
