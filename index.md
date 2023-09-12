@@ -6,7 +6,7 @@ Hello, I am Shayan Golshan.
 
 ADD INFORMATION
 
-In my portfolio, you will see what analytics skills that I am capable of as well as the projects that I have selected.  My interests lie in...=
+In my portfolio, you will see what analytics skills that I am capable of as well as some of the projects that I have completed during my experience in my Master's program as well as the Work-Study programs.  My interests lie...
 
 Please contact me if you have any questions!
 * *Personal Email: sgolshan2018@gmail.com*
@@ -30,23 +30,20 @@ Please contact me if you have any questions!
 ### [5. Machine Learning:  Classification Project to determine individuals at risk of Heart Disease vs. not at risk of Heart Disease](shayan's github repository he needs to create)
 * DESCRIPTION
 
-### [6. Machine Learning:  Decision Tree Classification Project to determine Mushroom Species](shayan's github repository he needs to create)
+### [6. Descriptive Analytics:  Congressional Data Analysis](shayan's github repository he needs to create)
 * DESCRIPTION
 
-### [7. Descriptive Analytics:  Congressional Data Analysis](shayan's github repository he needs to create)
+### [7. Descriptive Analytics:  Big Mac Index and the World Happiness Index](shayan's github repository he needs to create)
 * DESCRIPTION
 
-### [8. Descriptive Analytics:  Big Mac Index and the World Happiness Index](shayan's github repository he needs to create)
+### [8. Advanced Machine Learning:  Brain Tumor Dectector](shayan's github repository he needs to create)
 * DESCRIPTION
 
-### [9. Advanced Machine Learning:  PUT ANY LAB](shayan's github repository he needs to create)
-* DESCRIPTION
+### [9. Industry Capstone Project:  Salesforce Hybrid Workplace Planning](shayan's github repository he needs to create)
+* Signed NDA, can't share code but can have a description
 
-### [10. Industry Capstone Project:  Salesforce Hybrid Workplace Planning](shayan's github repository he needs to create)
-* DESCRIPTION
-
-### [11. Industry Capstone Project:  Netflix Marketing Strategy Planning](shayan's github repository he needs to create)
-* DESCRIPTION
+### [10. Industry Capstone Project:  Netflix Marketing Strategy Planning](shayan's github repository he needs to create)
+* Signed NDA, can't share code but can have a description
 
 # California Polytechnic State University M.S.B.A. Courses Taken
 ## CHANGE BELOW
