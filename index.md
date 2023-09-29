@@ -15,7 +15,7 @@ Please contact me if you have any questions!
 
 # Data Analytics Projects:
 
-### [1. Strategic Marketing Analysis: Survey analysis using K-Means Clustering for Customer Segmentation](shayan's github repository he needs to create)
+### [1. Strategic Marketing Analysis: Survey analysis using K-Means Clustering for Customer Segmentation](https://github.com/shayan-g/Chipotle-Marketing-Analysis)
 * DESCRIPTION
 
 ### [2. Relational Database Design:  Database Design and Implementation for SLO Watersport](shayan's github repository he needs to create)
